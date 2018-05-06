@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.app3" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>PhoneGap-Prado</name>
+    <description>
+        Pagina Informativa FIMAZ
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        Ricardo Prado
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+
+<icon src="images/phonegap.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/phonegap.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/phonegap.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/phonegap.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
